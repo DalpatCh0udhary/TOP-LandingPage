@@ -2,12 +2,9 @@ body{
     background-color: #1F2937;
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
 }
 
-img:-moz-broken{
-    opacity: 0;
-}
- 
 .navbar{
     display: flex;
     gap: 20px;
